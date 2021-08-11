@@ -5,7 +5,7 @@
  */
 
 /**
- *
+ *Esta es una clase para visualizar resultados 
  * @author Usuario
  */
 public class Visualizador {
