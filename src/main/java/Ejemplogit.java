@@ -5,7 +5,7 @@
  */
 
 /**
- *
+ *Esta clase es un ejemlo 
  * @author Usuario
  */
 public class Ejemplogit {
