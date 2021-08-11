@@ -5,7 +5,7 @@
  */
 
 /**
- *
+ * Esta clase es una entidad Estudiante 
  * @author Usuario
  */
 public class Estudiante {
